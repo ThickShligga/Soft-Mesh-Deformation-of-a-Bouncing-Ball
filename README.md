@@ -69,6 +69,6 @@ via `cmake-gui` or `ccmake`.
 
 ## Video Demo
 <video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/ThickShligga/Soft-Mesh-Deformation-of-a-Bouncing-Ballmain/Ball_Simulation.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/ThickShligga/Soft-Mesh-Deformation-of-a-Bouncing-Ball/main/Ball_Simulation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
