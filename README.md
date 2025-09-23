@@ -68,7 +68,4 @@ When changing this value, do not forget to clear your `CMakeCache.txt`, or to up
 via `cmake-gui` or `ccmake`.
 
 ## Video Demo
-<video width="640" height="360" controls autoplay muted loop playsinline>
-  <source src="/Ball_Simulation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/44df0d34-98f6-4845-87a2-9596a5695115
