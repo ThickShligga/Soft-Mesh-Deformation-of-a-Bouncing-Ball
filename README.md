@@ -66,3 +66,9 @@ cmake -DFETCHCONTENT_SOURCE_DIR_LIBIGL=<path-to-libigl> ..
 ```
 When changing this value, do not forget to clear your `CMakeCache.txt`, or to update the cache variable
 via `cmake-gui` or `ccmake`.
+
+## Video Demo
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/ThickShligga/Soft-Mesh-Deformation-of-a-Bouncing-Ballmain/Ball_Simulation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
