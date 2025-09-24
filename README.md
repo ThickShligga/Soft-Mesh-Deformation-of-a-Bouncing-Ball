@@ -1,8 +1,5 @@
-# libigl example project
-
-A blank project example showing how to use libigl and cmake. Feel free and
-encouraged to copy or fork this project as a way of starting a new personal
-project using libigl.
+## Video Demo
+https://github.com/user-attachments/assets/44df0d34-98f6-4845-87a2-9596a5695115
 
 ## Compile
 
@@ -66,6 +63,3 @@ cmake -DFETCHCONTENT_SOURCE_DIR_LIBIGL=<path-to-libigl> ..
 ```
 When changing this value, do not forget to clear your `CMakeCache.txt`, or to update the cache variable
 via `cmake-gui` or `ccmake`.
-
-## Video Demo
-https://github.com/user-attachments/assets/44df0d34-98f6-4845-87a2-9596a5695115
